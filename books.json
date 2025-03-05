@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Python Programming",
+        "author": "John Doe",
+        "isbn": "123456789",
+        "genre": "Programming",
+        "availability": true,
+        "borrower": null,
+        "due_date": null
+    },
+    {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "isbn": "9780735211292\t",
+        "genre": "Self-Help",
+        "availability": true,
+        "borrower": null,
+        "due_date": null
+    },
+    {
+        "title": "The Alchemist\t",
+        "author": "Paulo Coelho",
+        "isbn": "\t9780061122415\t",
+        "genre": "Fiction",
+        "availability": true,
+        "borrower": null,
+        "due_date": null
+    },
+    {
+        "title": "Psychology of Money",
+        "author": "Morgan House",
+        "isbn": "9780857197689",
+        "genre": "Fiction",
+        "availability": true,
+        "borrower": null,
+        "due_date": null
+    },
+    {
+        "title": "A Brief History of Humankind",
+        "author": "Yuval Noah Harai",
+        "isbn": "9780099590088",
+        "genre": "History",
+        "availability": true,
+        "borrower": null,
+        "due_date": null
+    },
+    {
+        "title": "1984\t",
+        "author": "George Orwell",
+        "isbn": "9780451524935",
+        "genre": "Dystopian",
+        "availability": true,
+        "borrower": null,
+        "due_date": null
+    }
+]
